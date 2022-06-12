@@ -6,6 +6,6 @@ public class gittest {
         System.out.println("我是提交的代码");
         System.out.println("我是提交的代码");
         System.out.println("我是提交的代码");
-
+         System.out.println("github已经修改");
     }
 }
